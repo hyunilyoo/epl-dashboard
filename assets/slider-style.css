@@ -1,0 +1,34 @@
+.rc-slider-track {
+    background-color: purple !important;
+}
+
+.rc-slider-dot-active {  
+    border-color: purple;
+    border: 2px solid navy;
+}
+
+.rc-slider-handle {
+    background-color: rgb(242,242,242);
+    border-color: 2px solid purple;
+}
+
+.rc-slider-handle.rc-slider-handle-1 {
+    border-color: purple;
+}
+
+.rc-slider-handle.rc-slider-handle-2 {
+    border-color: purple;
+}
+
+.rc-slider-handle:hover {
+    border-color: purple;
+}
+
+
+.re.rc-slider-handle:focus {
+    border-color: purple;
+}
+
+.badge-secondary {
+    background-color: purple;
+}
