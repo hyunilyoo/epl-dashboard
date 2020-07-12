@@ -13,6 +13,7 @@ clubstats = pd.read_csv('p_clubstats.csv')
 tables = pd.read_csv('p_tables.csv')
 top4 = pd.read_csv('top4.csv')
 below4 = pd.read_csv('below4.csv')
+df = pd.read_csv('df.csv')
 
 
 # Dashboard
