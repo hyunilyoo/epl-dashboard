@@ -67,6 +67,7 @@ below4  = data[data['is_top4'] == 0]
 app = dash.Dash(
     __name__, external_stylesheets=[dbc.themes.BOOTSTRAP]
 )
+server = app.server
 
 row = html.Div(
     [
