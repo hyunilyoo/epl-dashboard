@@ -618,4 +618,4 @@ def show_table(table_tabs, season_slider, choose_group):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server()
